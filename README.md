@@ -1,8 +1,8 @@
 ### Hello!
 
--Currently learning CS
--Read my bio for more info
--I feel like a bot probably wouldn't try to say that they're not a bot, right?
+- Currently learning CS
+- Read my bio for more info
+- I feel like a bot probably wouldn't try to say that they're not a bot, right?
 
 <!--
 **PatrickPham123/PatrickPham123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
