@@ -1,7 +1,7 @@
 ### Hello!
 
 - Currently learning CS
-- Read my bio for more info
+- Check out my profile for more info!
 - I feel like a bot probably wouldn't try to say that they're not a bot, right?
 
 <!--
